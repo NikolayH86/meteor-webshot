@@ -1,3 +1,6 @@
+###Update
+package.js was updated in order to be supported by  Meteor 0.6.5 and higher.
+
 ###Webshot - Meteor Smart Package
 
 This is a the [node-webshot npm plugin](https://npmjs.org/package/webshot) as a meteor smart package.
